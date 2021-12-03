@@ -16,10 +16,10 @@ output:
   postcards::onofre
 ---
  
-**I am a PhD student at UC San Diego performing research in the biological sciences.**
+**I am a PhD student at UC San Diego conducting research in the biological sciences.**
 
-**I graduated from UCLA in 2019 with a Bachelor of Science in Microbiology, Immunology, and Molecular Genetics, also majoring in Human Biology and Society and minoring in Public Health.**
+**I graduated from UCLA in 2019 with a Bachelor of Science in Microbiology, Immunology, and Molecular Genetics.**
 
-**My research has focused thus far on bacteriophage biology, comparative genomics, and CRISPR effector discovery.**
+**My research projects have spanned topics in bacteriophage biology, comparative genomics, and CRISPR effector discovery.**
 
 **Let's connect!**
