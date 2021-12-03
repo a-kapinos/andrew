@@ -1,5 +1,5 @@
 ---
-title: "**Andrew Kapinos**"
+title: "Andrew Kapinos"
 image: "profile.png"
 color1: "#5832a6"
 color2: "#C66060"
