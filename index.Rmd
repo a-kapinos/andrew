@@ -1,0 +1,25 @@
+---
+title: "**Andrew Kapinos**"
+image: "profile.png"
+color1: "#5832a6"
+color2: "#C66060"
+angle: 130
+links:
+  - label: "**LinkedIn**"
+    url: "https://www.linkedin.com/in/andrew-kapinos/"
+  - label: "**Email**"
+    url: "mailto:akapinos@ucsd.edu"
+  - label: "**Twitter**"
+    url: "https://twitter.com/andrew_kapinos"
+
+output:
+  postcards::onofre
+---
+ 
+**I am a PhD student at UC San Diego performing research in the biological sciences.**
+
+**I graduated from UCLA in 2019 with a Bachelor of Science in Microbiology, Immunology, and Molecular Genetics, also majoring in Human Biology and Society and minoring in Public Health.**
+
+**My research has focused thus far on bacteriophage biology, comparative genomics, and CRISPR effector discovery.**
+
+**Let's connect!**
